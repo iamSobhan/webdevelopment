@@ -1,5 +1,0 @@
-1. <h1> - Main Heading (Most Important)
-     The <h1> tag is typically used for the main title of the page or the most important heading. 
-     There should ideally be only one <h1> on a web page to represent the primary topic.
-     Example:
-     <h1>This is the Main Heading</h1> 
