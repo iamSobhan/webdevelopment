@@ -1,0 +1,30 @@
+HTML styles allow us to customize the appearance of web content. We can use inline styles, internal stylesheets, or external stylesheets to apply styles to HTML elements. 
+Here are some common style properties related to background color, text color, fonts, text size, and text alignment. CSS (Cascading Style Sheets) is used for defining these styles.
+
+1. Background Color
+The background-color property is used to set the background color of an HTML element.
+Example:
+<p style="background-color: lightblue;">This paragraph has a light blue background.</p>
+
+2. Text Color
+The color property sets the text color of an element.
+Example:
+<p style="color: red;">This paragraph has red text.</p>
+
+3. Fonts
+The font-family property defines the font of the text. We can specify a specific font, or use a generic font family (like serif, sans-serif, or monospace).
+Example:
+<p style="font-family: Arial, sans-serif;">This paragraph is using the Arial font.</p>
+
+4. Text Size
+The font-size property is used to set the size of the text. We can specify sizes using various units like px (pixels), em, rem, %, or vw (viewport width).
+Example:
+<p style="font-size: 20px;">This paragraph has a font size of 20px.</p>
+
+5.  Text Alignment
+The text-align property is used to set the alignment of text. Common values include left, right, center, and justify.
+Example:
+<p style="text-align: center;">This paragraph is centered.</p>
+
+
+
