@@ -1,0 +1,5 @@
+HTML paragraphs are defined using the <p> tag and are used to organize and display blocks of text in an HTML document. 
+Each <p> element represents a single paragraph, and browsers typically add some space above and below paragraphs to separate them visually.
+
+Example:
+<p>This is a paragraph of text in HTML.</p>
