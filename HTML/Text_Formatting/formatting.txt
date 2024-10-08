@@ -1,2 +1,6 @@
 HTML text formatting refers to using various HTML tags to style and emphasize text. 
 These tags can be used to make text bold, italicized, underlined, or display special types of content like code, superscript, and subscript etc.
+
+1. Bold Text (<b> and <strong>)
+<b>: Used to bold text, but without adding any extra emphasis or importance.
+<strong>: Used to indicate strong importance, typically displayed as bold text. It has semantic meaning for screen readers and search engines.
