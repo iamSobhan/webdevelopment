@@ -2,3 +2,51 @@
 We can set the background color of an element using the background-color property. 
 Example:
 <p style="background-color: lightblue;">This paragraph has a light blue background.</p>
+
+2. Text Color (color)
+We can change the text color of an element using the color property.
+Example:
+<p style="color: red;">This text is red.</p>
+
+3. Border Color (border-color)
+We can set the color of an element's border using the border-color property.
+Example:
+<p style="border: 2px solid; border-color: green;">This paragraph has a green border.</p>
+
+4. HTML RGB Colors
+The RGB color model represents colors using a combination of Red, Green, and Blue values, each ranging from 0 to 255. The syntax for RGB colors is rgb(red, green, blue).
+Example:
+<p style="color: rgb(255, 0, 0);">This text is red using RGB (255, 0, 0).</p>
+<p style="background-color: rgb(173, 216, 230);">This paragraph has a light blue background using RGB (173, 216, 230).</p>
+
+5. HTML RGBA Colors
+The RGBA color model is an extension of RGB, where A stands for Alpha (opacity). The alpha value ranges from 0 (completely transparent) to 1 (completely opaque). The syntax is rgba(red, green, blue, alpha).
+Example:
+<p style="color: rgba(0, 0, 255, 0.5);">This text is blue with 50% opacity using RGBA (0, 0, 255, 0.5).</p>
+<p style="background-color: rgba(0, 128, 0, 0.3);">This paragraph has a semi-transparent green background using RGBA (0, 128, 0, 0.3).</p>
+
+6. HTML HEX Colors
+HEX color codes are a way of specifying RGB colors using hexadecimal values. A HEX code starts with a # followed by six characters: two for red, two for green, and two for blue. Each value ranges from 00 (minimum) to FF (maximum).
+Example:
+<p style="color: #FF0000;">This text is red using HEX #FF0000.</p>
+<p style="background-color: #ADD8E6;">This paragraph has a light blue background using HEX #ADD8E6.</p>
+
+Short HEX Codes:
+For some colors, a shorthand version of the HEX code can be used. Instead of six characters, you can use three, where each value is doubled. For example, #FFF is equivalent to #FFFFFF.
+Example:
+<p style="color: #0F0;">This text is green using short HEX #0F0.</p>
+
+7. HTML HSL Colors
+HSL stands for Hue, Saturation, and Lightness. The Hue is the degree on the color wheel (from 0 to 360), Saturation is the intensity of the color (from 0% to 100%), and Lightness is the brightness of the color (from 0% to 100%).
+The syntax is hsl(hue, saturation, lightness).
+Example:
+<p style="color: hsl(120, 100%, 50%);">This text is green using HSL (120, 100%, 50%).</p>
+<p style="background-color: hsl(240, 100%, 50%);">This paragraph has a blue background using HSL (240, 100%, 50%).</p>
+
+8. HTML HSLA Colors
+HSLA is an extension of the HSL color model, adding Alpha (opacity) like in RGBA. The alpha value ranges from 0 (fully transparent) to 1 (fully opaque).
+The syntax is hsla(hue, saturation, lightness, alpha).
+Example:
+<p style="color: hsla(240, 100%, 50%, 0.3);">This text is semi-transparent blue using HSLA (240, 100%, 50%, 0.3).</p>
+<p style="background-color: hsla(120, 100%, 50%, 0.5);">This paragraph has a semi-transparent green background using HSLA (120, 100%, 50%, 0.5).</p>
+
