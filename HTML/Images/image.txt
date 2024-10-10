@@ -1,0 +1,9 @@
+In HTML, the <img> tag is used to embed images in a webpage. 
+Unlike other HTML elements, the <img> tag is self-closing and does not have a closing tag. 
+The image itself is not directly embedded; instead, the <img> tag refers to an image file, typically hosted on the web server or on an external source.
+
+Basic Syntax
+<img src="URL" alt="description" />
+
+src (source): The URL or file path of the image.
+alt (alternative text): A short description of the image, displayed if the image fails to load or for screen readers.
