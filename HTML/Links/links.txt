@@ -1,0 +1,2 @@
+HTML links allow users to navigate between web pages, websites, or other resources. The <a> tag (anchor tag) is used to create links in HTML. 
+The most important attribute of the <a> tag is the href attribute, which specifies the destination of the link.
