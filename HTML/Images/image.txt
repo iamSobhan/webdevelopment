@@ -7,3 +7,13 @@ Basic Syntax
 
 src (source): The URL or file path of the image.
 alt (alternative text): A short description of the image, displayed if the image fails to load or for screen readers.
+
+Key Attributes of the <img> Tag
+
+1. src (Required)
+Defines the path to the image file.
+Can be a relative path (on the same server) or an absolute path (external URL).
+
+Example:
+<img src="images/photo.jpg" alt="A beautiful photo" />
+
