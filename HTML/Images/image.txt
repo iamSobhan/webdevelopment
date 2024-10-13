@@ -17,3 +17,10 @@ Can be a relative path (on the same server) or an absolute path (external URL).
 Example:
 <img src="images/photo.jpg" alt="A beautiful photo" />
 
+2. alt (Required)
+Provides alternative text for the image. This is displayed if the image cannot be loaded and is used by screen readers for accessibility purposes.
+
+Example:
+<img src="broken-image.jpg" alt="A description of the image" />
+
+
