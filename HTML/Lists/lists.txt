@@ -1,0 +1,15 @@
+In HTML, lists are used to display items in a structured format. There are three primary types of lists:
+
+Ordered List (<ol>): Displays items in a numbered format.
+Unordered List (<ul>): Displays items with bullets.
+Description List (<dl>): Displays items in a list where each item has a description.
+
+1. Ordered List (<ol>)
+An ordered list uses numbers or letters to display the list items. Each item is wrapped inside a <li> (list item) tag.
+Example:
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+
