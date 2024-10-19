@@ -13,3 +13,13 @@ Example:
   <li>Third item</li>
 </ol>
 
+2. Unordered List (<ul>)
+An unordered list displays list items with bullet points. Just like ordered lists, each item is placed within an <li> element.
+Example:
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+
