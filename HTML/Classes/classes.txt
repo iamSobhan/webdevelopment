@@ -1,0 +1,11 @@
+In HTML, classes allow us to apply CSS styles to multiple elements at once. 
+Classes are defined in HTML using the class attribute, which can be applied to any HTML element. 
+They are often used for styling and can be reused across multiple elements for consistent design.
+
+<p class="highlight">This is highlighted text.</p>
+
+Classes are defined in CSS by prefixing the class name with a period (.).
+.highlight {
+  color: blue;
+  font-weight: bold;
+}
