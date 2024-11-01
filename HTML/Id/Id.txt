@@ -1,0 +1,5 @@
+In HTML, the id attribute is used to uniquely identify an HTML element on a webpage. 
+Unlike classes, which can be applied to multiple elements, each id must be unique within a page. 
+The id is commonly used for CSS styling, JavaScript manipulation, and linking to specific sections within a page.
+
+<p id="introduction">This paragraph has a unique ID.</p>
