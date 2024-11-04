@@ -1,0 +1,3 @@
+In HTML, forms are used to collect user input and send it to a server for processing. 
+Forms allow users to enter data through various input types, such as text fields, checkboxes, radio buttons, and submit buttons. 
+The data can be sent to the server for storage, calculations, or processing.
